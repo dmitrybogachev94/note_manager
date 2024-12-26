@@ -1,12 +1,12 @@
 username = "Дмитрий"
-print(username)
-title = "заголовок заметки"
-print(title)
-countent = "описание заметки"
-print(countent)
-status = "статус заметки"
-print(status)
-created_date = "26-12-2024"
-print(created_date)
-issue_date = "26-01-2025"
-print(issue_date)
+print("Имя пользователя:",username)
+title = "Заметка"
+print("Заголовок заметки:", title)
+countent = "Содержание"
+print("Описание заметки:", countent)
+status = "Начал выполнение / Не начал выполнение"
+print("Статус заметки:", status)
+created_date = "26.12.24"
+print("Дата создания:", created_date)
+issue_date = "26.01.25"
+print("Дата завершения:", issue_date)
